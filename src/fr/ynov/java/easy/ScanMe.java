@@ -14,3 +14,4 @@ public class ScanMe {
         System.out.println("Bonjour : "+nom+", vous avez "+age);
     }
 }
+
